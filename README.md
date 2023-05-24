@@ -7,3 +7,12 @@ he colaborado en distintos proyectos durante mi carrera como programado entre el
 aplicaciones moviles etc...
 
 ## 😀 tecnologias
+
+Actualmente cuento con conocimientos de las siguientes tecnologias:
+    1. JavaScript
+    2. PHP
+    3. SQL
+    4. Dart
+    5. MYSQL
+    6. Vue Js
+    7. Laravel
