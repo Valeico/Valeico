@@ -5,7 +5,7 @@
 
 Hola chamito, soy Frank Cardenas, conocido como __Valeico__ en el mundo del desarrollo, la programación y del gaming.
 
-Soy desarrollador web en el area de la contabilidad actualmente, pero he colaborado en varios proyectos de distintos rubros.
+Soy desarrollador en el area de la contabilidad actualmente, pero he colaborado en varios proyectos de distintos rubros.
 
 Al estar en mi perfil puedes libremente explorarlo y visualizar lo que gustes, siempre y cuando lo tenga visible 😉
 
@@ -31,7 +31,6 @@ Hobbies y gustos
 
 ### Lenguajes:
 
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-4e4e4e?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge)](https://htmlreference.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-264de4?logo=css3&style=for-the-badge)](https://cssreference.io/)
@@ -50,4 +49,33 @@ Hobbies y gustos
 
 ### CMS:
 
-[![astro](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://astro.build/)
+[![wordpress](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://astro.build/)
+
+### Gestores de base de datos:
+
+[![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://astro.build/)
+[![sql](https://img.shields.io/badge/-sql-eb7?logo=&style=for-the-badge)](https://developer.mozilla.org/es/docs/Glossary/SQL)
+[![sqlite](https://img.shields.io/badge/-sql-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
+
+<br>
+
+### Control de versiones
+
+[![Git](https://img.shields.io/badge/-GIT-ebf2f7?logo=git&style=for-the-badge)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GITHUB-30363d?logo=github&style=for-the-badge)](https://github.com/)
+
+<br>
+
+### Sistemas operativos
+
+[![Linux](https://img.shields.io/badge/-Linux-30363d?logo=linux&style=for-the-badge)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&style=for-the-badge)](https://www.microsoft.com/es-mx/windows)
+[![MACOS](https://img.shields.io/badge/-MAC_OS-0078D4?logo=apple&style=for-the-badge)](https://www.apple.com/mx/macos/ventura/)
+
+<br>
+
+### Herramientas de diseño, edicion y maquetado
+
+[![FIGMA](https://img.shields.io/badge/-Figma-5551FF?logo=Figma&style=for-the-badge)](https://www.figma.com/)
+[![ADOBEXD](https://img.shields.io/badge/-ADOBE_XD-16020B?logo=adobexd&style=for-the-badge)](https://helpx.adobe.com/es/xd/get-started.html)
+[![Photoshop](https://img.shields.io/badge/-photoshop-16020B?logo=adobephotoshop&style=for-the-badge)](https://www.adobe.com/)
