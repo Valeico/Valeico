@@ -1,8 +1,9 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Hola chamitos](./img/gatoDev.png)
 
 # ❂ Valeico ❂
 
-Hola chamito, soy Frank Cardenas, conocido como __Valeico__ en el mundo del desarrollo, la programación y el mundo del gaming.
+Hola chamito, soy Frank Cardenas, conocido como __Valeico__ en el mundo del desarrollo, la programación y del gaming.
 
 Soy desarrollador web en el area de la contabilidad actualmente, pero he colaborado en varios proyectos de distintos rubros.
 
