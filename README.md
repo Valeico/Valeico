@@ -20,7 +20,7 @@ Formación profesional:
 
 Hobbies y gustos
 
-* _Musico._ 🎸
+* _Músico._ 🎸
 * _Gamer._ 🎮
 * _gatos, pinguinos, Machapes._ 🦝
 * _y obvio la programación_ { }
