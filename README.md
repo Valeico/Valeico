@@ -42,7 +42,7 @@ Hobbies y gustos
 ### Frameworks:
 
 [![VUE.JS](https://img.shields.io/badge/-VUE.JS-242424?logo=vue.js&style=for-the-badge)](https://vuejs.org/)
-[![flutter](https://img.shields.io/badge/-flutter-1a68d3?logo=flutter&style=for-the-badge)](https://vuejs.org/)
+[![flutter](https://img.shields.io/badge/-flutter-1a68d3?logo=flutter&style=for-the-badge)](https://flutter.dev/)
 [![nodejs](https://img.shields.io/badge/-NODE.Js-233056?logo=node.js&style=for-the-badge)](https://nodejs.org/es)
 [![astro](https://img.shields.io/badge/-astro-3245ff?logo=astro&style=for-the-badge)](https://astro.build/)
 
