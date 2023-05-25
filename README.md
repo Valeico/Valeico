@@ -31,17 +31,10 @@ Hobbies y gustos
 
 ### Lenguajes:
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"
-    style="
-        text-decoration: none;
-        background-color: #4e4e4e; 
-        color: white;
-        border:1px;
-        border-radius:5px;
-        width:130px;
-        height: 25px;
-        cursor:pointer;">
+<a style="text-decoration: none; " href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<button style="background-color: #4e4e4e; color: white;border:1px;border-radius:5px;width:100px;height: 25px;cursor:pointer;">
         <img src="./img/javascript.svg" width="10" height="10"> JavaScript
+</button>
 </a>
 <a style="text-decoration: none; " href="https://htmlreference.io/">
 <button 
@@ -166,6 +159,6 @@ Hobbies y gustos
         border-radius:5px;
         width:100px;
         height: 25px;
-        cursor:pointer;"><img src="./img/wordpress.png" width="15" height="15"> Wordpress
+        cursor:pointer;"><img src="./img/wordpress.png" width="15" height="15">Wordpress
 </button>
 </a>
