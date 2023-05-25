@@ -79,3 +79,8 @@ Hobbies y gustos
 [![FIGMA](https://img.shields.io/badge/-Figma-5551FF?logo=Figma&style=for-the-badge)](https://www.figma.com/)
 [![ADOBEXD](https://img.shields.io/badge/-ADOBE_XD-16020B?logo=adobexd&style=for-the-badge)](https://helpx.adobe.com/es/xd/get-started.html)
 [![Photoshop](https://img.shields.io/badge/-photoshop-16020B?logo=adobephotoshop&style=for-the-badge)](https://www.adobe.com/)
+
+
+# Rede sociales 🌟
+
+[![linkedin](https://img.shields.io/badge/-linkedin-16020B?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/valeico/)
