@@ -37,6 +37,7 @@ Hobbies y gustos
 [![PHP](https://img.shields.io/badge/-PHP-4F5B93?logo=php&style=for-the-badge)](https://www.php.net/manual/es/intro-whatis.php)
 [![DART](https://img.shields.io/badge/-Dart-075b9a?logo=dart&style=for-the-badge)](https://esflutter.dev/docs/resources/bootstrap-into-dart)
 [![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=for-the-badge)](https://www.json.org/json-es.html)
+[![sql](https://img.shields.io/badge/-sql-eb7?logo=&style=for-the-badge)](https://developer.mozilla.org/es/docs/Glossary/SQL)
 
 ### Frameworks:
 
@@ -54,7 +55,6 @@ Hobbies y gustos
 ### Gestores de base de datos:
 
 [![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://astro.build/)
-[![sql](https://img.shields.io/badge/-sql-eb7?logo=&style=for-the-badge)](https://developer.mozilla.org/es/docs/Glossary/SQL)
 [![sqlite](https://img.shields.io/badge/-sql-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
 
 <br>
