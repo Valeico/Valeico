@@ -46,7 +46,6 @@ Hobbies y gustos
 [![nodejs](https://img.shields.io/badge/-NODE.Js-233056?logo=node.js&style=for-the-badge)](https://nodejs.org/es)
 [![astro](https://img.shields.io/badge/-astro-3245ff?logo=astro&style=for-the-badge)](https://astro.build/)
 
-<br>
 
 ### CMS:
 
@@ -57,14 +56,12 @@ Hobbies y gustos
 [![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://astro.build/)
 [![sqlite](https://img.shields.io/badge/-sqlite-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
 
-<br>
 
 ### Control de versiones
 
 [![Git](https://img.shields.io/badge/-GIT-ebf2f7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GITHUB-30363d?logo=github&style=for-the-badge)](https://github.com/)
 
-<br>
 
 ### Sistemas operativos
 
@@ -72,7 +69,6 @@ Hobbies y gustos
 [![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&style=for-the-badge)](https://www.microsoft.com/es-mx/windows)
 [![MACOS](https://img.shields.io/badge/-MAC_OS-0078D4?logo=apple&style=for-the-badge)](https://www.apple.com/mx/macos/ventura/)
 
-<br>
 
 ### Herramientas de diseño, edicion y maquetado
 
