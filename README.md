@@ -55,7 +55,7 @@ Hobbies y gustos
 ### Gestores de base de datos:
 
 [![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://astro.build/)
-[![sqlite](https://img.shields.io/badge/-sql-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
+[![sqlite](https://img.shields.io/badge/-sqlite-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
 
 <br>
 
