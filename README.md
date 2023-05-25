@@ -31,134 +31,23 @@ Hobbies y gustos
 
 ### Lenguajes:
 
-<a style="text-decoration: none; " href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<button style="background-color: #4e4e4e; color: white;border:1px;border-radius:5px;width:100px;height: 25px;cursor:pointer;">
-        <img src="./img/javascript.svg" width="10" height="10"> JavaScript
-</button>
-</a>
-<a style="text-decoration: none; " href="https://htmlreference.io/">
-<button 
-    style="
-        background-color: #e34c26;
-        color: white; 
-        border:1px solid black; 
-        border-radius:5px;
-        width:100px;
-        height: 25px;
-        cursor:pointer;"> <img src="./img/html.png" width="10" height="10"> HTML
-</button>
-</a>
-<a style="text-decoration: none; " href="https://cssreference.io/"">
-    <button 
-        style="
-            background-color: #264de4; 
-            color: white;
-            border:1px solid black; 
-            border-radius:5px;
-            width:100px;
-            height:25px;
-            cursor:pointer;"><img src="./img/css.png" width="15" height="15"> CSS
-    </button>
-</a>
-<a style="text-decoration: none; " href="https://www.php.net/manual/es/intro-whatis.php">
-    <button 
-        style="
-            background-color: #8993be;
-            color: white; 
-            border:1px solid black; 
-            border-radius:5px;
-            width:100px;
-            height:25px;
-            cursor:pointer;"><img src="./img/php.png" width="15" height="15"> PHP
-    </button>
-</a>
 
-<a style="text-decoration: none;" href="https://esflutter.dev/docs/resources/bootstrap-into-dart">
-<button 
-    style="
-        background-color: #075b9a;
-        color: white;
-        border:1px solid black; 
-        border-radius:5px;
-        width:100px;
-        height:25px;
-        cursor:pointer;"><img src="./img/dart.png" width="15" height="15"> Dart
-</button>
-</a>
-<a style="text-decoration: none;" href="https://www.json.org/json-es.html">
-<button 
-    style="
-        background-color: linen; 
-        border:1px; 
-        border-radius:5px;
-        width:100px;
-        height:25px;
-        cursor: pointer;">Json
-</button>
-</a>
-
-<br>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-4e4e4e?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge)](https://htmlreference.io/)
+[![CSS3](https://img.shields.io/badge/-CSS3-264de4?logo=css3&style=for-the-badge)](https://cssreference.io/)
+[![PHP](https://img.shields.io/badge/-PHP-4F5B93?logo=php&style=for-the-badge)](https://www.php.net/manual/es/intro-whatis.php)
+[![DART](https://img.shields.io/badge/-Dart-075b9a?logo=dart&style=for-the-badge)](https://esflutter.dev/docs/resources/bootstrap-into-dart)
+[![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=for-the-badge)](https://www.json.org/json-es.html)
 
 ### Frameworks:
 
-<a style="text-decoration: none;" href="https://vuejs.org/">
-<button 
-    style="
-        background-color: #242424;
-        color: white;
-        border:1px; 
-        border-radius:5px;
-        width:100px;
-        height:25px;
-        cursor:pointer;"><img src="./img/vue.png" width="15" height="15"> Vue.js
-</button>
-</a>
-<a style="text-decoration: none;" href="https://flutter.dev/">
-<button 
-    style="
-        background-color: #1a68d3; 
-        border:1px solid black; 
-        border-radius:5px;
-        width:100px;
-        height:25px;
-        cursor:pointer;"><img src="./img/flutter.svg" width="45" height="15">
-</button>
-</a>
-<a style="text-decoration: none;" href="https://nodejs.org/es">
-<button 
-    style="
-        background-color: #233056; 
-        border:1px; 
-        border-radius:5px;
-        width:100px;
-        height: 25px;
-        cursor:pointer;"><img src="./img/node.svg" width="45" height="15">
-</button>
-</a>
-<a style="text-decoration: none;" href="https://astro.build/">
-<button 
-    style="
-        background: repeat,linear-gradient(83.21deg,#3245ff 0%,#bc52ee 100%); 
-        border:1px solid black; 
-        border-radius:5px;
-        width:100px;
-        height: 25px;
-        cursor:pointer;"><img src="./img/astro.svg" width="15" height="15">Astro
-</button>
-</a>
+[![VUE.JS](https://img.shields.io/badge/-VUE.JS-242424?logo=vue.js&style=for-the-badge)](https://vuejs.org/)
+[![flutter](https://img.shields.io/badge/-flutter-1a68d3?logo=flutter&style=for-the-badge)](https://vuejs.org/)
+[![nodejs](https://img.shields.io/badge/-NODE.Js-233056?logo=node.js&style=for-the-badge)](https://nodejs.org/es)
+[![astro](https://img.shields.io/badge/-astro-3245ff?logo=astro&style=for-the-badge)](https://astro.build/)
 
 <br>
 
 ### CMS:
 
-<a style="text-decoration: none;" href="https://wordpress.com/es/">
-<button 
-    style="
-        background-color: white; 
-        border:1px solid black; 
-        border-radius:5px;
-        width:100px;
-        height: 25px;
-        cursor:pointer;"><img src="./img/wordpress.png" width="15" height="15">Wordpress
-</button>
-</a>
+[![astro](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://astro.build/)
