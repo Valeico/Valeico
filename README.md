@@ -83,4 +83,4 @@ Hobbies y gustos
 
 # Rede sociales 🌟
 
-[![linkedin](https://img.shields.io/badge/-linkedin-16020B?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/valeico/)
+[![linkedin](https://img.shields.io/badge/-linkedin-16020B?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/valeico-dev/)
