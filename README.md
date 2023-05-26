@@ -47,6 +47,10 @@ Hobbies y gustos
 [![astro](https://img.shields.io/badge/-astro-3245ff?logo=astro&style=for-the-badge)](https://astro.build/)
 
 
+### Empaquetador de proyectos front:
+[![Vite](https://img.shields.io/badge/-Vite-1c1e21?logo=vite&style=for-the-badge)](https://es.vitejs.dev/guide/)
+[![Webpack](https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&style=for-the-badge)](https://webpack.js.org/)
+
 ### CMS:
 
 [![wordpress](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://astro.build/)
