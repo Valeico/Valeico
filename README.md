@@ -43,7 +43,7 @@ Hobbies y gustos
 
 [![VUE.JS](https://img.shields.io/badge/-VUE.JS-242424?logo=vue.js&style=for-the-badge)](https://vuejs.org/)
 [![flutter](https://img.shields.io/badge/-flutter-1a68d3?logo=flutter&style=for-the-badge)](https://flutter.dev/)
-[![nodejs](https://img.shields.io/badge/-NODE.Js-233056?logo=node.js&style=for-the-badge)](https://nodejs.org/es)
+[![nodejs](https://img.shields.io/badge/-NODE.Js-233056?logo=node.js&style=for-the-badge)](https://nodejs.org/en)
 [![astro](https://img.shields.io/badge/-astro-3245ff?logo=astro&style=for-the-badge)](https://astro.build/)
 
 
@@ -53,11 +53,11 @@ Hobbies y gustos
 
 ### CMS:
 
-[![wordpress](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://astro.build/)
+[![wordpress](https://img.shields.io/badge/-wordpress-101517?logo=wordpress&style=for-the-badge)](https://wordpress.com/es/)
 
 ### Gestores de base de datos:
 
-[![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://astro.build/)
+[![mysql](https://img.shields.io/badge/-MYSQL-ebf2f7?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
 [![sqlite](https://img.shields.io/badge/-sqlite-044a64?logo=sqlite&style=for-the-badge)](https://www.sqlite.org/index.html)
 
 
